@@ -1,0 +1,8 @@
+D:\Schule\5_Klasse\MobileComputing\HUE\HUE03_TravelPlanner\HUE03_Friedl_TravelPlanner\TravelPlannerLogic\bin\Debug\netstandard2.1\TravelPlannerLogic.deps.json
+D:\Schule\5_Klasse\MobileComputing\HUE\HUE03_TravelPlanner\HUE03_Friedl_TravelPlanner\TravelPlannerLogic\bin\Debug\netstandard2.1\TravelPlannerLogic.dll
+D:\Schule\5_Klasse\MobileComputing\HUE\HUE03_TravelPlanner\HUE03_Friedl_TravelPlanner\TravelPlannerLogic\bin\Debug\netstandard2.1\TravelPlannerLogic.pdb
+D:\Schule\5_Klasse\MobileComputing\HUE\HUE03_TravelPlanner\HUE03_Friedl_TravelPlanner\TravelPlannerLogic\obj\Debug\netstandard2.1\TravelPlannerLogic.csprojAssemblyReference.cache
+D:\Schule\5_Klasse\MobileComputing\HUE\HUE03_TravelPlanner\HUE03_Friedl_TravelPlanner\TravelPlannerLogic\obj\Debug\netstandard2.1\TravelPlannerLogic.AssemblyInfoInputs.cache
+D:\Schule\5_Klasse\MobileComputing\HUE\HUE03_TravelPlanner\HUE03_Friedl_TravelPlanner\TravelPlannerLogic\obj\Debug\netstandard2.1\TravelPlannerLogic.AssemblyInfo.cs
+D:\Schule\5_Klasse\MobileComputing\HUE\HUE03_TravelPlanner\HUE03_Friedl_TravelPlanner\TravelPlannerLogic\obj\Debug\netstandard2.1\TravelPlannerLogic.dll
+D:\Schule\5_Klasse\MobileComputing\HUE\HUE03_TravelPlanner\HUE03_Friedl_TravelPlanner\TravelPlannerLogic\obj\Debug\netstandard2.1\TravelPlannerLogic.pdb
